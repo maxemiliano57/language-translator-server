@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lang-server": {
+      "command": "node",
+      "args": ["C:\\Users\\Max\\Downloads\\week4\\mcp_server\\language-translator-server\\index.js"]
+    }
+  }
+}

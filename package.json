@@ -1,0 +1,18 @@
+{
+  "name": "language-translator-server",
+  "version": "1.0.0",
+  "description": "MCP server for language detection and translation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "franc": "^6.2.0",
+    "langs": "^2.0.0"
+  }
+}
